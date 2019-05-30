@@ -31,7 +31,7 @@ Description: An object-oriented modeling language for disciplined convex
     analyzes the problem, verifies its convexity, converts it into a canonical form,
     and hands it off to an appropriate solver to obtain the solution.
 Depends:
-    R (>= 3.4.0)
+    R (>= 3.2.0)
 Imports:
     methods,
     R6,
